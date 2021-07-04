@@ -1,0 +1,35 @@
+body {
+	background-size: cover;
+	background-position: center;
+}
+
+.login-box {
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+}
+
+.login-left {
+	padding: 30px;
+}
+
+.login-right {
+	background: #fff;
+	padding: 30px;
+}
+
+.form-control {
+	background: transparent !important;
+}
+
+a{
+	color: #fff !important;
+	margin-top: -200px;
+}
+
+h1{
+	color: #fff !important;
+	margin-top: 200px !important;
+	text-align: center;
+	text-transform: uppercase;
+}
