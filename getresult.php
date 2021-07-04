@@ -102,3 +102,6 @@ mysqli_select_db($con, 'attendance_sys');
 </div>
 		</body>
 		</html>
+				<?php
+include('footer.php');
+?>
