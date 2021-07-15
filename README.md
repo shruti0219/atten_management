@@ -19,3 +19,13 @@ Attendance Management is a web based application to record and calculate attenda
 1. Download the given attendance_sys.sql file.
 2. Import attendance_sys.sql, if everything Okay then database will be imported.
 3. Tables - student, student_details, teacher, subject
+
+![Register](/doc/1.png)
+
+![Add Class](/doc/2.png)
+
+![Mark Attendance](/doc/3.png)
+
+![Result](/doc/4.png)
+
+![Result](/doc/5.png)
